@@ -1,0 +1,10 @@
+body{
+  background: rgb(175, 153, 153);
+}
+h3{
+  margin-top: 40px;
+}
+
+.hidden{
+  display: none;
+}
